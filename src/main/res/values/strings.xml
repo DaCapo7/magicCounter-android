@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Magic counter</string>
-    <string name="name">Name</string>
-    <string name="prompttext">Enter a type/player name:</string>
-    <string name="apply">APPLY</string>
-    <string name="plust">+</string>
-    <string name="minust">-</string>
-    <string name="magiclogo">magiclogo</string>
-</resources>
