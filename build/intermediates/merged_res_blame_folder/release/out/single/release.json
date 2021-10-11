@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\layout_prompt.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\layout\\prompt.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\layout_card_layout.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\layout\\card_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\drawable-v24_magiclogo.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\drawable-v24\\magiclogo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\drawable_layout_bg.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\drawable\\layout_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\font_belwe_bold.ttf.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\font\\belwe_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\drawable_rectangle.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\magic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    }
+]
